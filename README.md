@@ -10,7 +10,7 @@
 - 😁 Conhecimento em Desenvolvimento Frontend e Backend
   
  Sou Graduado em Análise e Desenvolvimento de Sistemas e pos graduado em Gestão em qualidade de software tenho experiência de 5 anos como 
-operador de dados com foco na área administrativa, tenho 1 ano de experiência com desenvolvimento de sistemas e 2 anos
+operador de dados com foco na área administrativa, tenho 1 ano de experiência com desenvolvimento de sistemas e 4 anos
 de experiência como analista de testes/QA, possuindo uma facilidade em se adaptar a diversos ambientes distintos de trabalho e sempre 
 utilizando de uma comunicação simples e de fácil entendimento.
 Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se você estiver interessado em colaborar ou compartilhar ideias, 
