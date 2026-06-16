@@ -5,7 +5,7 @@
 
 <p align="left"> 
 
-- 😎 Test analyst QA/QD 
+- 😎 Test analyst QA 
 - 😎 Automação (RobotFramework e Playwright)
 - 😁 Conhecimento em Desenvolvimento Frontend e Backend
   
